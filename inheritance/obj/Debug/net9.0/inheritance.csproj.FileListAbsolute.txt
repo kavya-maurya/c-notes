@@ -1,0 +1,14 @@
+F:\C# notes\inheritance\bin\Debug\net9.0\inheritance.exe
+F:\C# notes\inheritance\bin\Debug\net9.0\inheritance.deps.json
+F:\C# notes\inheritance\bin\Debug\net9.0\inheritance.runtimeconfig.json
+F:\C# notes\inheritance\bin\Debug\net9.0\inheritance.dll
+F:\C# notes\inheritance\bin\Debug\net9.0\inheritance.pdb
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfoInputs.cache
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfo.cs
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.csproj.CoreCompileInputs.cache
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.dll
+F:\C# notes\inheritance\obj\Debug\net9.0\refint\inheritance.dll
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.pdb
+F:\C# notes\inheritance\obj\Debug\net9.0\inheritance.genruntimeconfig.cache
+F:\C# notes\inheritance\obj\Debug\net9.0\ref\inheritance.dll

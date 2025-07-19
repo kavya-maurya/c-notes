@@ -1,0 +1,14 @@
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.AssemblyInfoInputs.cache
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.AssemblyInfo.cs
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.csproj.CoreCompileInputs.cache
+F:\C# notes\abstract and interference\bin\Debug\net9.0\abstract and interference.exe
+F:\C# notes\abstract and interference\bin\Debug\net9.0\abstract and interference.deps.json
+F:\C# notes\abstract and interference\bin\Debug\net9.0\abstract and interference.runtimeconfig.json
+F:\C# notes\abstract and interference\bin\Debug\net9.0\abstract and interference.dll
+F:\C# notes\abstract and interference\bin\Debug\net9.0\abstract and interference.pdb
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.dll
+F:\C# notes\abstract and interference\obj\Debug\net9.0\refint\abstract and interference.dll
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.pdb
+F:\C# notes\abstract and interference\obj\Debug\net9.0\abstract and interference.genruntimeconfig.cache
+F:\C# notes\abstract and interference\obj\Debug\net9.0\ref\abstract and interference.dll

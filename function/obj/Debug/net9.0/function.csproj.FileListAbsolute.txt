@@ -1,0 +1,14 @@
+F:\C# notes\function\bin\Debug\net9.0\function.exe
+F:\C# notes\function\bin\Debug\net9.0\function.deps.json
+F:\C# notes\function\bin\Debug\net9.0\function.runtimeconfig.json
+F:\C# notes\function\bin\Debug\net9.0\function.dll
+F:\C# notes\function\bin\Debug\net9.0\function.pdb
+F:\C# notes\function\obj\Debug\net9.0\function.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\function\obj\Debug\net9.0\function.AssemblyInfoInputs.cache
+F:\C# notes\function\obj\Debug\net9.0\function.AssemblyInfo.cs
+F:\C# notes\function\obj\Debug\net9.0\function.csproj.CoreCompileInputs.cache
+F:\C# notes\function\obj\Debug\net9.0\function.dll
+F:\C# notes\function\obj\Debug\net9.0\refint\function.dll
+F:\C# notes\function\obj\Debug\net9.0\function.pdb
+F:\C# notes\function\obj\Debug\net9.0\function.genruntimeconfig.cache
+F:\C# notes\function\obj\Debug\net9.0\ref\function.dll

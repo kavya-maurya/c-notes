@@ -1,0 +1,42 @@
+F:\m\bin\Debug\net9.0\m.exe
+F:\m\bin\Debug\net9.0\m.deps.json
+F:\m\bin\Debug\net9.0\m.runtimeconfig.json
+F:\m\bin\Debug\net9.0\m.dll
+F:\m\bin\Debug\net9.0\m.pdb
+F:\m\obj\Debug\net9.0\m.GeneratedMSBuildEditorConfig.editorconfig
+F:\m\obj\Debug\net9.0\m.AssemblyInfoInputs.cache
+F:\m\obj\Debug\net9.0\m.AssemblyInfo.cs
+F:\m\obj\Debug\net9.0\m.csproj.CoreCompileInputs.cache
+F:\m\obj\Debug\net9.0\m.dll
+F:\m\obj\Debug\net9.0\refint\m.dll
+F:\m\obj\Debug\net9.0\m.pdb
+F:\m\obj\Debug\net9.0\m.genruntimeconfig.cache
+F:\m\obj\Debug\net9.0\ref\m.dll
+F:\Practice\inheritance and polymorphisim\bin\Debug\net9.0\m.exe
+F:\Practice\inheritance and polymorphisim\bin\Debug\net9.0\m.deps.json
+F:\Practice\inheritance and polymorphisim\bin\Debug\net9.0\m.runtimeconfig.json
+F:\Practice\inheritance and polymorphisim\bin\Debug\net9.0\m.dll
+F:\Practice\inheritance and polymorphisim\bin\Debug\net9.0\m.pdb
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.AssemblyInfoInputs.cache
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.AssemblyInfo.cs
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.csproj.CoreCompileInputs.cache
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.dll
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\refint\m.dll
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.pdb
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\m.genruntimeconfig.cache
+F:\Practice\inheritance and polymorphisim\obj\Debug\net9.0\ref\m.dll
+F:\C# notes\inheritance and polymorphisim\bin\Debug\net9.0\m.exe
+F:\C# notes\inheritance and polymorphisim\bin\Debug\net9.0\m.deps.json
+F:\C# notes\inheritance and polymorphisim\bin\Debug\net9.0\m.runtimeconfig.json
+F:\C# notes\inheritance and polymorphisim\bin\Debug\net9.0\m.dll
+F:\C# notes\inheritance and polymorphisim\bin\Debug\net9.0\m.pdb
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.AssemblyInfoInputs.cache
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.AssemblyInfo.cs
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.csproj.CoreCompileInputs.cache
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.dll
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\refint\m.dll
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.pdb
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\m.genruntimeconfig.cache
+F:\C# notes\inheritance and polymorphisim\obj\Debug\net9.0\ref\m.dll

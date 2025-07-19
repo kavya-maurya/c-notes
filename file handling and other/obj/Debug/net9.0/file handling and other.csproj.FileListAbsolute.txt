@@ -1,0 +1,14 @@
+F:\C# notes\file handling and other\bin\Debug\net9.0\file handling and other.exe
+F:\C# notes\file handling and other\bin\Debug\net9.0\file handling and other.deps.json
+F:\C# notes\file handling and other\bin\Debug\net9.0\file handling and other.runtimeconfig.json
+F:\C# notes\file handling and other\bin\Debug\net9.0\file handling and other.dll
+F:\C# notes\file handling and other\bin\Debug\net9.0\file handling and other.pdb
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.AssemblyInfoInputs.cache
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.AssemblyInfo.cs
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.csproj.CoreCompileInputs.cache
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.dll
+F:\C# notes\file handling and other\obj\Debug\net9.0\refint\file handling and other.dll
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.pdb
+F:\C# notes\file handling and other\obj\Debug\net9.0\file handling and other.genruntimeconfig.cache
+F:\C# notes\file handling and other\obj\Debug\net9.0\ref\file handling and other.dll

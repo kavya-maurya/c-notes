@@ -1,0 +1,14 @@
+F:\C# notes\lambda\bin\Debug\net9.0\lambda.exe
+F:\C# notes\lambda\bin\Debug\net9.0\lambda.deps.json
+F:\C# notes\lambda\bin\Debug\net9.0\lambda.runtimeconfig.json
+F:\C# notes\lambda\bin\Debug\net9.0\lambda.dll
+F:\C# notes\lambda\bin\Debug\net9.0\lambda.pdb
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.AssemblyInfoInputs.cache
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.AssemblyInfo.cs
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.csproj.CoreCompileInputs.cache
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.dll
+F:\C# notes\lambda\obj\Debug\net9.0\refint\lambda.dll
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.pdb
+F:\C# notes\lambda\obj\Debug\net9.0\lambda.genruntimeconfig.cache
+F:\C# notes\lambda\obj\Debug\net9.0\ref\lambda.dll

@@ -1,0 +1,14 @@
+F:\C# notes\stack\obj\Debug\net9.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\stack\obj\Debug\net9.0\stack.AssemblyInfoInputs.cache
+F:\C# notes\stack\obj\Debug\net9.0\stack.AssemblyInfo.cs
+F:\C# notes\stack\obj\Debug\net9.0\stack.csproj.CoreCompileInputs.cache
+F:\C# notes\stack\bin\Debug\net9.0\stack.exe
+F:\C# notes\stack\bin\Debug\net9.0\stack.deps.json
+F:\C# notes\stack\bin\Debug\net9.0\stack.runtimeconfig.json
+F:\C# notes\stack\bin\Debug\net9.0\stack.dll
+F:\C# notes\stack\bin\Debug\net9.0\stack.pdb
+F:\C# notes\stack\obj\Debug\net9.0\stack.dll
+F:\C# notes\stack\obj\Debug\net9.0\refint\stack.dll
+F:\C# notes\stack\obj\Debug\net9.0\stack.pdb
+F:\C# notes\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
+F:\C# notes\stack\obj\Debug\net9.0\ref\stack.dll

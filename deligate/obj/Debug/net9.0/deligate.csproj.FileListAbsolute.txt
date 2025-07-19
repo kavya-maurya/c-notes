@@ -1,0 +1,14 @@
+F:\C# notes\deligate\bin\Debug\net9.0\deligate.exe
+F:\C# notes\deligate\bin\Debug\net9.0\deligate.deps.json
+F:\C# notes\deligate\bin\Debug\net9.0\deligate.runtimeconfig.json
+F:\C# notes\deligate\bin\Debug\net9.0\deligate.dll
+F:\C# notes\deligate\bin\Debug\net9.0\deligate.pdb
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.AssemblyInfoInputs.cache
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.AssemblyInfo.cs
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.csproj.CoreCompileInputs.cache
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.dll
+F:\C# notes\deligate\obj\Debug\net9.0\refint\deligate.dll
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.pdb
+F:\C# notes\deligate\obj\Debug\net9.0\deligate.genruntimeconfig.cache
+F:\C# notes\deligate\obj\Debug\net9.0\ref\deligate.dll

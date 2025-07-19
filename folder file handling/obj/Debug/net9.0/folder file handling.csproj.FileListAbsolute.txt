@@ -1,0 +1,14 @@
+F:\C# notes\folder file handling\bin\Debug\net9.0\folder file handling.exe
+F:\C# notes\folder file handling\bin\Debug\net9.0\folder file handling.deps.json
+F:\C# notes\folder file handling\bin\Debug\net9.0\folder file handling.runtimeconfig.json
+F:\C# notes\folder file handling\bin\Debug\net9.0\folder file handling.dll
+F:\C# notes\folder file handling\bin\Debug\net9.0\folder file handling.pdb
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.AssemblyInfoInputs.cache
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.AssemblyInfo.cs
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.csproj.CoreCompileInputs.cache
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.dll
+F:\C# notes\folder file handling\obj\Debug\net9.0\refint\folder file handling.dll
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.pdb
+F:\C# notes\folder file handling\obj\Debug\net9.0\folder file handling.genruntimeconfig.cache
+F:\C# notes\folder file handling\obj\Debug\net9.0\ref\folder file handling.dll

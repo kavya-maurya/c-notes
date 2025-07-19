@@ -1,0 +1,28 @@
+F:\New folder\bin\Debug\net9.0\New folder.exe
+F:\New folder\bin\Debug\net9.0\New folder.deps.json
+F:\New folder\bin\Debug\net9.0\New folder.runtimeconfig.json
+F:\New folder\bin\Debug\net9.0\New folder.dll
+F:\New folder\bin\Debug\net9.0\New folder.pdb
+F:\New folder\obj\Debug\net9.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\obj\Debug\net9.0\New folder.AssemblyInfoInputs.cache
+F:\New folder\obj\Debug\net9.0\New folder.AssemblyInfo.cs
+F:\New folder\obj\Debug\net9.0\New folder.csproj.CoreCompileInputs.cache
+F:\New folder\obj\Debug\net9.0\New folder.dll
+F:\New folder\obj\Debug\net9.0\refint\New folder.dll
+F:\New folder\obj\Debug\net9.0\New folder.pdb
+F:\New folder\obj\Debug\net9.0\New folder.genruntimeconfig.cache
+F:\New folder\obj\Debug\net9.0\ref\New folder.dll
+F:\Practice\async and await\bin\Debug\net9.0\New folder.exe
+F:\Practice\async and await\bin\Debug\net9.0\New folder.deps.json
+F:\Practice\async and await\bin\Debug\net9.0\New folder.runtimeconfig.json
+F:\Practice\async and await\bin\Debug\net9.0\New folder.dll
+F:\Practice\async and await\bin\Debug\net9.0\New folder.pdb
+F:\Practice\async and await\obj\Debug\net9.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\async and await\obj\Debug\net9.0\New folder.AssemblyInfoInputs.cache
+F:\Practice\async and await\obj\Debug\net9.0\New folder.AssemblyInfo.cs
+F:\Practice\async and await\obj\Debug\net9.0\New folder.csproj.CoreCompileInputs.cache
+F:\Practice\async and await\obj\Debug\net9.0\New folder.dll
+F:\Practice\async and await\obj\Debug\net9.0\refint\New folder.dll
+F:\Practice\async and await\obj\Debug\net9.0\New folder.pdb
+F:\Practice\async and await\obj\Debug\net9.0\New folder.genruntimeconfig.cache
+F:\Practice\async and await\obj\Debug\net9.0\ref\New folder.dll

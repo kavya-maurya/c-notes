@@ -1,0 +1,14 @@
+F:\Practice\New folder\obj\Debug\net9.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\New folder\obj\Debug\net9.0\New folder.AssemblyInfoInputs.cache
+F:\Practice\New folder\obj\Debug\net9.0\New folder.AssemblyInfo.cs
+F:\Practice\New folder\obj\Debug\net9.0\New folder.csproj.CoreCompileInputs.cache
+F:\Practice\New folder\bin\Debug\net9.0\New folder.exe
+F:\Practice\New folder\bin\Debug\net9.0\New folder.deps.json
+F:\Practice\New folder\bin\Debug\net9.0\New folder.runtimeconfig.json
+F:\Practice\New folder\bin\Debug\net9.0\New folder.dll
+F:\Practice\New folder\bin\Debug\net9.0\New folder.pdb
+F:\Practice\New folder\obj\Debug\net9.0\New folder.dll
+F:\Practice\New folder\obj\Debug\net9.0\refint\New folder.dll
+F:\Practice\New folder\obj\Debug\net9.0\New folder.pdb
+F:\Practice\New folder\obj\Debug\net9.0\New folder.genruntimeconfig.cache
+F:\Practice\New folder\obj\Debug\net9.0\ref\New folder.dll

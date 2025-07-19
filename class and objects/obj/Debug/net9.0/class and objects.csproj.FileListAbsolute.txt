@@ -1,0 +1,14 @@
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.AssemblyInfoInputs.cache
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.AssemblyInfo.cs
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.csproj.CoreCompileInputs.cache
+F:\C# notes\class and objects\bin\Debug\net9.0\class and objects.exe
+F:\C# notes\class and objects\bin\Debug\net9.0\class and objects.deps.json
+F:\C# notes\class and objects\bin\Debug\net9.0\class and objects.runtimeconfig.json
+F:\C# notes\class and objects\bin\Debug\net9.0\class and objects.dll
+F:\C# notes\class and objects\bin\Debug\net9.0\class and objects.pdb
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.dll
+F:\C# notes\class and objects\obj\Debug\net9.0\refint\class and objects.dll
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.pdb
+F:\C# notes\class and objects\obj\Debug\net9.0\class and objects.genruntimeconfig.cache
+F:\C# notes\class and objects\obj\Debug\net9.0\ref\class and objects.dll

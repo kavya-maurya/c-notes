@@ -1,0 +1,14 @@
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.AssemblyInfoInputs.cache
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.AssemblyInfo.cs
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.csproj.CoreCompileInputs.cache
+F:\C# notes\Loop\bin\Debug\net9.0\Loop.exe
+F:\C# notes\Loop\bin\Debug\net9.0\Loop.deps.json
+F:\C# notes\Loop\bin\Debug\net9.0\Loop.runtimeconfig.json
+F:\C# notes\Loop\bin\Debug\net9.0\Loop.dll
+F:\C# notes\Loop\bin\Debug\net9.0\Loop.pdb
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.dll
+F:\C# notes\Loop\obj\Debug\net9.0\refint\Loop.dll
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.pdb
+F:\C# notes\Loop\obj\Debug\net9.0\Loop.genruntimeconfig.cache
+F:\C# notes\Loop\obj\Debug\net9.0\ref\Loop.dll

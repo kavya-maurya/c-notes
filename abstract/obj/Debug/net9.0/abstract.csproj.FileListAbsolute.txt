@@ -1,0 +1,14 @@
+F:\C# notes\abstract\bin\Debug\net9.0\abstract.exe
+F:\C# notes\abstract\bin\Debug\net9.0\abstract.deps.json
+F:\C# notes\abstract\bin\Debug\net9.0\abstract.runtimeconfig.json
+F:\C# notes\abstract\bin\Debug\net9.0\abstract.dll
+F:\C# notes\abstract\bin\Debug\net9.0\abstract.pdb
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.AssemblyInfoInputs.cache
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.AssemblyInfo.cs
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.csproj.CoreCompileInputs.cache
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.dll
+F:\C# notes\abstract\obj\Debug\net9.0\refint\abstract.dll
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.pdb
+F:\C# notes\abstract\obj\Debug\net9.0\abstract.genruntimeconfig.cache
+F:\C# notes\abstract\obj\Debug\net9.0\ref\abstract.dll
